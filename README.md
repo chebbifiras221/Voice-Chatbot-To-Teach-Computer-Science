@@ -146,6 +146,17 @@ A voice and text-based AI assistant designed to help users learn programming con
 - `text-input.tsx`: Text input component
 - `code-editor.tsx`: Code editor component
 - `conversation-manager.tsx`: Manages conversation history
+## 📸 Screenshots
+
+![Screenshot 1](./image2.png)
+![Screenshot 2](./image1.png)
+![Screenshot 2](./image.png)
+
+## 📽 Demo Video
+
+<video width="720" controls>
+  <source src="./video.mp4" type="video/mp4">
+</video>
 
 ## License
 
